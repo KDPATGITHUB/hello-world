@@ -1,2 +1,3 @@
 This is a license file that has been added to the "Hello-World" project.
 Changed in HW.Feature.A.Branch
+Changed in HW.Feature.B.Branch
